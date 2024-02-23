@@ -10,7 +10,7 @@ To view the portfolio locally, follow these steps:
 1. Clone this repository to your machine:
 - bash
 - Copy code
-2. git clone https://github.com/your-username/Bootstrap-Portfolio.git
+2. git clone https://github.com/Sooey-99/Bootstrap-Portfolio/edit/main/README.md 
 3. Open the index.html file in your preferred web browser.
 
 ## Use
